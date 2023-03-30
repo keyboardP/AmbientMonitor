@@ -1,0 +1,4 @@
+bleak==0.20.1
+colour==0.1.5
+fast_colorthief==0.0.4
+Pillow==9.4.0
