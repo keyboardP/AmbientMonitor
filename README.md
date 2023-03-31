@@ -8,7 +8,7 @@
 
 Ambient Monitor in action: https://www.youtube.com/watch?v=az-va7ofef8
 
-**Full tutorial can be found at www.reaminated.com**
+**Accompanying tutorial can be found at www.reaminated.com**
 
 Reverse Engineer LED lights to transform your viewing experience on your monitor. The tutorial explains the steps taken to reverse engineer a Bluetooth LE enabled LED light strip. I've tried to keep it as generic as possible so should be replicable across most LED strips.
 
